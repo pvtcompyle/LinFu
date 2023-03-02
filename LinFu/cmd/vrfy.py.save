@@ -1,0 +1,52 @@
+#!/usr/bin/python
+
+import socket
+import sys
+import argparse
+
+def check_viable(un, server):
+	#if len(sys.argv) != 3:
+	#	print("Usage: vrfy.py <username> <ipaddress>")
+	#	sys.exit(0)
+
+	print (f'[*] Checking {un} on {server}')
+	# Create a socket
+	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+	# Connect to the server
+	connect = s.connect((server,25))
+
+	# Receive the banneer
+	banner = s.recv(1024).decode('ascii').split('\n')[0]
+	#banner = banner.split('\n')[0]
+	print(f'[ banner ] {banner}')
+
+	# VRFY a user
+	s.send(f'VRFY {un} \r\n'.encode())
+	result = s.recv(1024).decode('ascii')
+
+	print(f'[response] {result}')
+
+	# Close the socket
+	s.close()
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-u', type=str)
+parser.add_argument('-uL')
+parser.add_argument('-s', type=str)
+parser.add_argument('-sL', action='store_true')
+parser.add_argument('username', type=str)
+parser.add_argument('server', type=str)
+args = parser.parse_args()
+
+print(args.u)
+print(args.uL)
+print(args.s)
+print(args.sL)
+print(args.username)
+print(args.server)
+
+if args.username and args.server or args.u and args.s:
+	check_viable(args.username, args.server)
+else:
+	print('Must include arguments')

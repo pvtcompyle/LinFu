@@ -1,0 +1,39 @@
+#!/bin/bash
+
+while getopts d:f:t: flag
+do
+  case "${flag}" in
+    d) directory=${OPTARG};;
+    f) filename=${OPTARG};;
+    t) filetype=${OPTARG};;
+  esac
+done
+
+if [[ ! -z "$directory" ]];
+then
+  directory="${directory}/"
+elif [[ ! -z "$1" ]]
+then
+  directory="${1}/"
+else
+  directory="./"
+fi
+
+files=$(ls -artp $directory | grep -v '.*rc'\|'.*_history' | grep -v /)
+echo $files
+
+for f in $files; do
+  wc -l $directory$f
+done
+echo
+file_list=($files)
+name=${file_list[-1]}
+echo $directory$name
+len=$(echo $directory$name | wc -m)
+for i in $(seq 1 $len)
+do
+  echo -n "="
+done
+echo
+echo
+cat $directory$name

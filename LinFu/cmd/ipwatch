@@ -1,0 +1,8 @@
+#!/bin/bash
+function ipwatch {
+    for dev in $(ifconfig | cut -d" " -f1 | tr -d ":");
+    do 
+      ifconfig $dev | tr -d "\n" | awk '{print $1,"\t", $6}'
+    done
+}
+ipwatch

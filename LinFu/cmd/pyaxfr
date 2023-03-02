@@ -1,0 +1,16 @@
+#!/usr/bin/python3
+import sys
+import subprocess
+
+t = sys.argv[1]
+print(f'TARGET:     {t}\n')
+hosts = list(filter(None, subprocess.check_output(f'host -t ns {t} | cut -d " " -f4 | grep {t}', shell=True).decode().split('\n')))
+
+for h in hosts:
+  h = "".join(h.split())[:-1]
+  print(f'CHECKING:   {h}')
+  try:
+    result = subprocess.check_output(f'host -l {t} {h} | grep address | cut -d " " -f 1,4', shell=True).decode().split('\n')
+    [print(r) for r in result]
+  except Exception as e:
+    print('          NO RESULT\n')
