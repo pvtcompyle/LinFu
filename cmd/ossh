@@ -1,0 +1,3 @@
+!#/bin/bash
+# OSSH is used to connect to Offensive Security systems without appending the ssh keys to the known_hosts file.
+echo ssh -o "UserKnownHostsFile=/dev/null" -o "StrictHostKeyChecking=no" $1@$2
