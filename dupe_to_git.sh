@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cp /usr/local/* ~/Documents/GitHub/LinFu/cmd/
+sudo cp /usr/local/* ~/GitHub/LinFu/cmd/
