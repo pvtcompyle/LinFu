@@ -1,0 +1,14 @@
+2023-08-01 22:00:00.697 [error] Error: The editor could not be opened because the file was not found.
+    at Eh.bc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:19256)
+    at async Eh.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:18343)
+    at async e.$Kub.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:20301)
+    at async e.$Kub.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:18969)
+    at async e.$Kub.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:17957)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2473:12434
+2023-08-01 22:00:03.474 [info] [perf] Render performance baseline is 30ms
+2023-08-01 22:38:00.694 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/bootstrap.js:1:419)
+	at process.emit (node:events:513:28)
+2023-08-01 23:11:11.938 [error] No expression to evaluate
+2023-08-01 23:17:57.336 [error] No expression to evaluate
+2023-08-01 23:20:19.119 [error] No expression to evaluate

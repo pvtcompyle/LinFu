@@ -1,0 +1,6 @@
+2023/06/22-23:30:48.352 114ad9 Creating DB /home/gomer/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2023/06/22-23:30:48.372 114ad9 Reusing MANIFEST /home/gomer/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/22-23:31:20.416 114ada Level-0 table #5: started
+2023/06/22-23:31:20.421 114ada Level-0 table #5: 2301 bytes OK
+2023/06/22-23:31:20.428 114ada Delete type=0 #3
+2023/06/22-23:31:20.428 114ada Manual compaction at level-0 from (begin) .. (end); will stop at (end)

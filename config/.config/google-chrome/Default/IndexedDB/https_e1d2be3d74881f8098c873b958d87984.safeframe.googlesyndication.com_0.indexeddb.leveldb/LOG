@@ -1,0 +1,7 @@
+2023/07/13-00:20:27.214 d66 Reusing MANIFEST /home/gomer/.config/google-chrome/Default/IndexedDB/https_e1d2be3d74881f8098c873b958d87984.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/13-00:20:27.214 d66 Recovering log #3
+2023/07/13-00:20:27.214 d66 Reusing old log /home/gomer/.config/google-chrome/Default/IndexedDB/https_e1d2be3d74881f8098c873b958d87984.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2023/07/13-00:20:56.569 d67 Level-0 table #5: started
+2023/07/13-00:20:56.574 d67 Level-0 table #5: 460 bytes OK
+2023/07/13-00:20:56.591 d67 Delete type=0 #3
+2023/07/13-00:20:56.591 d67 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+[calendars]
+
+[[private1]]
+path = /home/gomer/.local/share/khal/calendars/private1
+type = calendar
+
+[locale]
+timeformat = %H:%M
+dateformat = %d-%b-%Y
+longdateformat = %d-%b-%Y
+datetimeformat = %d-%b-%Y %H:%M
+longdatetimeformat = %d-%b-%Y %H:%M
+
+[default]
+default_calendar = private1

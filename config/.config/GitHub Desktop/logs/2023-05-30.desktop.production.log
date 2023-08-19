@@ -1,0 +1,31 @@
+2023-05-30T05:34:54.307Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-05-30T05:34:54.354Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-05-30T05:34:54.358Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.0-kali9-amd64)
+2023-05-30T05:34:54.360Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2023-05-30T05:34:54.381Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-05-30T05:34:54.437Z - info: [ui] Opt in reported.
+2023-05-30T05:35:02.307Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-05-30T05:35:02.308Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-05-30T05:35:02.311Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=2858482c-3ac9-4b06-912c-a6e4c0b9e32b
+2023-05-30T05:35:02.312Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-05-30T05:35:02.575Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-05-30T05:35:05.108Z - info: [main] Received possible protocol arguments: 4
+2023-05-30T05:35:05.108Z - info: [main] Processing protocol url
+2023-05-30T05:35:05.109Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-05-30T05:35:05.113Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-05-30T05:35:05.754Z - info: [ui] [SignInStore] account resolved
+2023-05-30T05:35:05.754Z - info: [ui] [AppStore] adding account pvtcompyle (pvtcompyle) to store
+2023-05-30T05:35:05.772Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-05-30T05:35:05.804Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-05-30T05:35:06.017Z - info: [ui] Subscribed 'pvtcompyle' to Alive channel
+2023-05-30T05:35:06.204Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-05-30T05:35:29.124Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/pvtcompyle/LinFu.git - pvtcompyle (has token)
+2023-05-30T05:35:29.742Z - info: [ui] [AppStore] adding repository at /home/gomer/GitHub/LinFu to store
+2023-05-30T05:35:30.168Z - info: [ui] [BranchPruner] No branches to prune.
+2023-05-30T05:39:50.849Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: LinFu - pvtcompyle (has token)
+2023-05-30T05:39:51.651Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.2s of which 0.0s paused, total 1.2s
+2023-05-30T05:42:12.932Z - info: [ui] [Timing] Action 'create commit' for 'pvtcompyle/LinFu' took 0.060s
+2023-05-30T05:44:38.805Z - info: [ui] [Timing] Action 'create commit' for 'pvtcompyle/LinFu' took 0.056s
+2023-05-30T05:44:54.502Z - info: [ui] [Timing] Action 'create commit' for 'pvtcompyle/LinFu' took 0.057s
+2023-05-30T05:45:10.969Z - info: [ui] [Timing] Action 'create commit' for 'pvtcompyle/LinFu' took 0.064s
+2023-05-30T05:45:14.006Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: LinFu - pvtcompyle (has token)

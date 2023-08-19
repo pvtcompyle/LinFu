@@ -1,0 +1,6 @@
+2023-08-02T21:38:00.511Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-02T21:38:00.514Z - info: [ui] [AppStore] found account: pvtcompyle (pvtcompyle)
+2023-08-02T21:38:00.545Z - info: [ui] [BranchPruner] Last prune took place 22 hours ago - skipping
+2023-08-02T21:38:00.758Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.3.0-kali1-amd64)
+2023-08-02T21:38:00.758Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2023-08-02T21:38:00.843Z - info: [ui] Subscribed 'pvtcompyle' to Alive channel

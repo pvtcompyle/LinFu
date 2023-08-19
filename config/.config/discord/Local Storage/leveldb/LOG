@@ -1,0 +1,6 @@
+2023/07/25-19:36:38.051 23361 Reusing MANIFEST /home/gomer/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/25-19:36:38.051 23361 Recovering log #20
+2023/07/25-19:36:38.051 23361 Reusing old log /home/gomer/.config/discord/Local Storage/leveldb/000020.log 
+2023/07/25-19:38:38.703 2333a Level-0 table #24: started
+2023/07/25-19:38:38.717 2333a Level-0 table #24: 1765955 bytes OK
+2023/07/25-19:38:38.726 2333a Delete type=0 #20

@@ -1,0 +1,18 @@
+2023-08-09 18:48:49.848 [info] [Info  - 6:48:49 PM] (178888) Pylance language server 2023.8.10 (pyright 932e542d) starting
+2023-08-09 18:48:49.848 [info] [Info  - 6:48:49 PM] (178888) Server root directory: /home/gomer/.vscode/extensions/ms-python.vscode-pylance-2023.8.10/dist
+2023-08-09 18:48:49.849 [info] [Info  - 6:48:49 PM] (178888) Starting service instance "web100"
+2023-08-09 18:48:49.885 [info] [Info  - 6:48:49 PM] (178888) Setting pythonPath for service "web100": "/bin/python"
+2023-08-09 18:48:49.885 [info] [Warn  - 6:48:49 PM] (178888) stubPath /home/gomer/GitHub/OScripty/web100/typings is not a valid directory.
+2023-08-09 18:48:49.908 [info] [Info  - 6:48:49 PM] (178888) Assuming Python version 3.11
+2023-08-09 18:48:50.048 [info] [Info  - 6:48:50 PM] (178888) Found 1 source file
+2023-08-09 18:48:50.292 [info] [Info  - 6:48:50 PM] (178888) Background analysis(1) root directory: /home/gomer/.vscode/extensions/ms-python.vscode-pylance-2023.8.10/dist
+2023-08-09 18:48:50.298 [info] [Info  - 6:48:50 PM] (178888) Background analysis(1) started
+2023-08-09 18:48:50.546 [info] [Info  - 6:48:50 PM] (178888) Indexer background runner(2) root directory: /home/gomer/.vscode/extensions/ms-python.vscode-pylance-2023.8.10/dist (index)
+2023-08-09 18:48:50.546 [info] [Info  - 6:48:50 PM] (178888) Indexing(2) started
+2023-08-09 18:48:51.421 [info] [Info  - 6:48:51 PM] (178888) scanned(2) 661 files over 1 exec env
+2023-08-09 18:48:57.831 [info] [Info  - 6:48:57 PM] (178888) [IDX(2)] Long operation: index execution environment /home/gomer/GitHub/OScripty/web100 (6329ms)
+2023-08-09 18:48:57.850 [info] [Info  - 6:48:57 PM] (178888) [IDX(2)] Long operation: index packages /home/gomer/GitHub/OScripty/web100 (6353ms)
+2023-08-09 18:48:57.850 [info] [Info  - 6:48:57 PM] (178888) indexed(2) 410 files over 1 exec env
+2023-08-09 18:48:57.884 [info] [Info  - 6:48:57 PM] (178888) Indexing finished(2).
+2023-08-09 19:17:47.189 [info] [Info  - 7:17:47 PM] (178888) Found 2 source files
+2023-08-09 21:39:56.365 [info] [Info  - 9:39:56 PM] (178888) Found 3 source files

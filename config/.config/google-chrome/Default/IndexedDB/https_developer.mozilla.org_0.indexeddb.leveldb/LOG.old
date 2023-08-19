@@ -1,0 +1,15 @@
+2023/07/29-16:54:38.964 165ccf Reusing MANIFEST /home/gomer/.config/google-chrome/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/29-16:54:38.964 165ccf Recovering log #4
+2023/07/29-16:54:38.964 165ccf Reusing old log /home/gomer/.config/google-chrome/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/000004.log 
+2023/08/02-22:51:21.621 165ccf Level-0 table #8: started
+2023/08/02-22:51:21.631 165ccf Level-0 table #8: 528197 bytes OK
+2023/08/02-22:51:21.639 165ccf Delete type=0 #4
+2023/08/02-22:51:21.639 165ccf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/02-22:51:21.639 165ccf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x13\x00u\x00s\x00e\x00r\x00L\x00i\x00f\x00e\x00t\x00i\x00m\x00e\x00M\x00e\x00t\x00r\x00i\x00c\x00s' @ 2394 : 1
+2023/08/02-22:51:21.639 165ccf Compacting 1@1 + 1@2 files
+2023/08/02-22:51:21.647 165ccf Generated table #9@1: 29 keys, 1687 bytes
+2023/08/02-22:51:21.647 165ccf Compacted 1@1 + 1@2 files => 1687 bytes
+2023/08/02-22:51:21.654 165ccf compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-22:51:21.654 165ccf Delete type=2 #5
+2023/08/02-22:51:21.654 165ccf Delete type=2 #8
+2023/08/02-22:51:21.654 165ccf Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x13\x00u\x00s\x00e\x00r\x00L\x00i\x00f\x00e\x00t\x00i\x00m\x00e\x00M\x00e\x00t\x00r\x00i\x00c\x00s' @ 2394 : 1 .. (end); will stop at (end)

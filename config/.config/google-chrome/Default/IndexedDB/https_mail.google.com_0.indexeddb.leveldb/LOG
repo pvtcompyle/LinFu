@@ -1,0 +1,6 @@
+2023/06/04-15:13:12.748 775 Reusing MANIFEST /home/gomer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/04-15:13:12.749 775 Recovering log #3
+2023/06/04-15:13:12.753 775 Reusing old log /home/gomer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2023/06/04-23:26:35.330 773 Level-0 table #5: started
+2023/06/04-23:26:35.353 773 Level-0 table #5: 2017377 bytes OK
+2023/06/04-23:26:35.365 773 Delete type=0 #3

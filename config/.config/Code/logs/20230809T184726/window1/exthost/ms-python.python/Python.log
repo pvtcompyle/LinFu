@@ -1,0 +1,118 @@
+2023-08-09 18:48:48.690 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-09 18:48:48.690 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-09 18:48:48.690 [info] Test server listening.
+2023-08-09 18:48:48.705 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-09 18:48:48.705 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-09 18:48:48.706 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-09 18:48:48.706 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-09 18:48:48.758 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-09 18:48:48.785 [info] Python interpreter path: /bin/python
+2023-08-09 18:48:49.863 [info] Starting Pylance language server.
+2023-08-09 18:53:38.329 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 18:53:39.013 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 18:53:40.343 [info] Send text to terminal:  /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 43633 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 18:53:47.053 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 18:53:47.108 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53359 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 18:53:47.279 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 18:54:24.258 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 18:54:24.316 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60705 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 18:54:24.500 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:00:19.793 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:00:23.674 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:00:23.731 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47227 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:03:16.719 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:03:16.790 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59519 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:03:16.953 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:03:45.946 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:03:46.014 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49133 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:03:46.155 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:04:50.909 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:04:50.972 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44359 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:04:51.156 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:05:09.550 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:05:09.610 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57315 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:05:09.789 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:05:33.506 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:05:33.572 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 46571 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:05:33.749 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:06:15.455 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:06:15.516 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39887 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:06:15.706 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:07:05.995 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:07:06.058 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54329 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:07:06.252 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:07:34.504 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:07:34.566 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34215 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:07:34.746 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:08:25.609 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:08:25.673 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58195 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:08:25.832 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:08:40.395 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:08:40.464 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41997 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:08:40.640 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:09:00.500 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:09:00.586 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41421 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:09:00.745 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:09:11.465 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:09:11.526 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47655 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:09:11.711 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:09:26.202 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:09:26.258 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 48589 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:09:26.447 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:09:43.101 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:09:43.160 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41187 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:09:43.348 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:09:55.349 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:09:55.408 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34361 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:09:55.588 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:10:45.888 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:10:45.980 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38699 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:10:46.147 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:12:20.913 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:12:20.972 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57319 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:12:21.155 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:12:54.839 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:12:54.900 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53757 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:12:55.089 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:13:09.105 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:13:09.164 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34311 -- /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py 
+2023-08-09 19:13:09.349 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:17:19.106 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.2.5.py
+2023-08-09 19:17:47.161 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 19:20:26.092 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 19:20:26.149 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 43963 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 19:20:26.341 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:04:33.746 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:04:33.806 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47987 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:04:33.974 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:20:11.991 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:20:12.066 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39541 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:20:12.236 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:20:40.267 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:20:40.327 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59585 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:20:40.508 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:21:29.127 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:21:29.187 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55221 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:21:29.370 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:21:46.063 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:21:46.138 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 48617 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:21:46.308 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:27:22.637 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:27:22.734 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39689 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:27:22.881 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:28:11.909 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:28:11.966 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 43537 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:28:12.170 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:31:06.992 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:31:07.057 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39311 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:31:07.230 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:35:37.451 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:35:37.518 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 35267 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:35:37.696 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:37:02.369 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:37:02.429 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52257 -- /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py 
+2023-08-09 21:37:02.599 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.3.1.py
+2023-08-09 21:39:56.322 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.4.2.py
+2023-08-09 21:41:32.854 [info] DAP Server launched with command: /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-09 21:41:32.910 [info] Send text to terminal:  cd /home/gomer/GitHub/OScripty/web100 ; /usr/bin/env /bin/python /home/gomer/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 45219 -- /home/gomer/GitHub/OScripty/web100/web100_12.4.2.py 
+2023-08-09 21:41:33.098 [info] Discover tests for workspace name: web100 - uri: /home/gomer/GitHub/OScripty/web100/web100_12.4.2.py

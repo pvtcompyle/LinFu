@@ -1,0 +1,6 @@
+2023/08/12-14:58:44.161 d96 Reusing MANIFEST /home/gomer/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/12-14:58:44.161 d96 Recovering log #112
+2023/08/12-14:58:44.164 d96 Reusing old log /home/gomer/.config/google-chrome/Default/Sync Data/LevelDB/000112.log 
+2023/08/12-14:59:12.841 d16 Level-0 table #116: started
+2023/08/12-14:59:12.850 d16 Level-0 table #116: 106782 bytes OK
+2023/08/12-14:59:12.857 d16 Delete type=0 #112

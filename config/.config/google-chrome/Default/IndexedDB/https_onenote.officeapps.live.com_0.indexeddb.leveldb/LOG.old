@@ -1,0 +1,6 @@
+2023/07/28-21:20:32.551 165ccf Reusing MANIFEST /home/gomer/.config/google-chrome/Default/IndexedDB/https_onenote.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/28-21:20:32.551 165ccf Recovering log #37
+2023/07/28-21:20:32.564 165ccf Reusing old log /home/gomer/.config/google-chrome/Default/IndexedDB/https_onenote.officeapps.live.com_0.indexeddb.leveldb/000037.log 
+2023/08/01-21:38:42.382 165cd0 Level-0 table #43: started
+2023/08/01-21:38:42.400 165cd0 Level-0 table #43: 1245238 bytes OK
+2023/08/01-21:38:42.408 165cd0 Delete type=0 #37

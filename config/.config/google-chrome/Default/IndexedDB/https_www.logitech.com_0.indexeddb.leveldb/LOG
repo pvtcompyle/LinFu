@@ -1,0 +1,6 @@
+2023/07/12-20:26:41.168 d67 Creating DB /home/gomer/.config/google-chrome/Default/IndexedDB/https_www.logitech.com_0.indexeddb.leveldb since it was missing.
+2023/07/12-20:26:41.193 d67 Reusing MANIFEST /home/gomer/.config/google-chrome/Default/IndexedDB/https_www.logitech.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/12-20:26:59.620 d66 Level-0 table #5: started
+2023/07/12-20:26:59.625 d66 Level-0 table #5: 1033 bytes OK
+2023/07/12-20:26:59.632 d66 Delete type=0 #3
+2023/07/12-20:26:59.632 d66 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

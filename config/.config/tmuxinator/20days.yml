@@ -1,0 +1,10 @@
+xname: 20days
+root: ~/
+windows:
+   - mail:
+      layout: d9da,208x60,0,0[208x26,0,0{104x26,0,0,0,103x26,105,0,5},208x33,0,27{104x33,0,27,1,103x33,105,27,4}]] @0
+      panes:
+        - alot
+        - abook
+        - ikhal
+        - todo.sh ls +20days

@@ -1,0 +1,8 @@
+2023-07-12T04:39:48.000Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-07-12T04:39:48.005Z - info: [ui] [AppStore] found account: pvtcompyle (pvtcompyle)
+2023-07-12T04:39:48.111Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-12T04:39:48.237Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.0-kali9-amd64)
+2023-07-12T04:39:48.238Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2023-07-12T04:39:48.355Z - info: [ui] Subscribed 'pvtcompyle' to Alive channel
+2023-07-12T04:39:48.434Z - info: [ui] Stats reported.
+2023-07-12T04:39:58.083Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: LinFu - pvtcompyle (has token)

@@ -1,0 +1,185 @@
+{
+   "checksum": "e2cc7764d12d8c96266ecbb9cd4fbc3b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13317172423546505",
+            "date_last_used": "0",
+            "guid": "8b6b85cc-f7c5-4fad-a39e-0aafd08336a7",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "tmux-gigix/tmux.conf at master · gigi206/tmux-gigix · GitHub",
+            "type": "url",
+            "url": "https://github.com/gigi206/tmux-gigix/blob/master/tmux.conf"
+         }, {
+            "date_added": "13317172429787092",
+            "date_last_used": "13334797825277393",
+            "guid": "a30f4e50-f479-413a-9ae5-d7a429ab2982",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Offensive Security | Library",
+            "type": "url",
+            "url": "https://portal.offsec.com/library/labs"
+         }, {
+            "children": [ {
+               "date_added": "13319167282898478",
+               "date_last_used": "0",
+               "guid": "c1db335b-436f-4cc9-a2dc-f19743bbfa85",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Search Web by Domain | Netcraft",
+               "type": "url",
+               "url": "https://searchdns.netcraft.com/"
+            }, {
+               "date_added": "13319167296129361",
+               "date_last_used": "0",
+               "guid": "5dae6b3c-6107-4dd9-a9d1-a650d4b66c5c",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon",
+               "type": "url",
+               "url": "https://www.exploit-db.com/google-hacking-database"
+            }, {
+               "date_added": "13319180078391701",
+               "date_last_used": "0",
+               "guid": "3710b09b-1a59-4cb7-9218-99261d8d55d5",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Shodan Search Engine",
+               "type": "url",
+               "url": "https://www.shodan.io/dashboard"
+            }, {
+               "date_added": "13319180270198167",
+               "date_last_used": "0",
+               "guid": "65f17e3a-0016-4ba3-96af-073d09c1b25f",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Security Headers",
+               "type": "url",
+               "url": "https://securityheaders.com/"
+            }, {
+               "date_added": "13319180331528996",
+               "date_last_used": "0",
+               "guid": "061fe482-68bd-4470-95e2-747d5157838c",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SSL Server Test (Powered by Qualys SSL Labs)",
+               "type": "url",
+               "url": "https://www.ssllabs.com/ssltest/"
+            }, {
+               "date_added": "13319180741456733",
+               "date_last_used": "0",
+               "guid": "5150560e-94c8-469e-8ecb-a94c71bd6735",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Pastebin.com - #1 paste tool since 2002!",
+               "type": "url",
+               "url": "https://pastebin.com/"
+            }, {
+               "date_added": "13319183790386708",
+               "date_last_used": "0",
+               "guid": "e5606a1a-b432-477a-8d13-5faf1d2e2c91",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Social Searcher - Free Social Media Search Engine",
+               "type": "url",
+               "url": "https://www.social-searcher.com/"
+            } ],
+            "date_added": "13319167277977155",
+            "date_last_used": "0",
+            "date_modified": "13319183790386708",
+            "guid": "baecb235-24bd-422e-984f-d15239ab95fa",
+            "id": "7",
+            "name": "Recon",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13319182435595940",
+               "date_last_used": "0",
+               "guid": "74ed1956-b4e5-4c17-95a6-f600a7ff5c0c",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "BinaryEdge Portal",
+               "type": "url",
+               "url": "https://app.binaryedge.io/login?alert=confirm"
+            } ],
+            "date_added": "13319182429320183",
+            "date_last_used": "0",
+            "date_modified": "13319182435595940",
+            "guid": "47b1bd79-2d6f-4dfc-a0e1-7a4ce3304074",
+            "id": "15",
+            "name": "Harvester",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13319185222364509",
+               "date_last_used": "0",
+               "guid": "d9f43888-3509-417f-a162-ac8935c3a1b3",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "OSINT Framework",
+               "type": "url",
+               "url": "https://osintframework.com/"
+            } ],
+            "date_added": "13319185228336417",
+            "date_last_used": "0",
+            "date_modified": "13319185228336417",
+            "guid": "93a56387-3e4f-4fab-a07c-b480c5c194bc",
+            "id": "17",
+            "name": "Reference",
+            "type": "folder"
+         } ],
+         "date_added": "13329881525455458",
+         "date_last_used": "0",
+         "date_modified": "13317172429787092",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13329881525455459",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13329881525455461",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmAKmc1VwEGACGAKmc1VwEGADIYChYIAhEPRyZFVwEGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ/2AmRVcBBgAR/2AmRVcBBgApdYcnRVcBBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAvyFAVwEGABGAvyFAVwEGACn5WyZFVwEGADCA/4aB9KqAA7oBAggBEgAgASoYL1NUZmZJYWxndHBOdHU5dWxjNVJldz09SAMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4YVNCeTFIdHhrSGl1ZkxZN1d2SkNiMWdvcGVXdjFaU2NveWI3TUVBSlFrZ2xEUlI2bVRRUzYzYi9sUld0RVdobDRjZ3BZGAAgACgAML31/aHum/8COABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS6wEICBLmAQocSEtCMEhEMmtESklxZzJSQWdyOGVlODcxS0NVPRJmWjpBRHF0QVp6Nk14N1RhbEJUTzR6ZkxJemNNa2dSWitrWnJiZ2I5dkhRUzBDRTdXY2kxS1pzeHlPbnprR1MxOU0rL3pNejJ2L09JK2wvR1J1SjdXSVpOcWF6Q3A2MnlNaHhYQT09GAAgACgAMPu725GA5PwCONLNltzeMEDSzZbc3jBKHHVNWjVLOGRSTk5oVUFiS1Nmck1FTTNhTzJ1ND1aHiIcRnlYemdrSWVXdnJUaERuWllQVE5UektlWXJjPWVo3g/2EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeDFnSDBScURQS1hrSy9TWGZFbU5VenI4UzhBRkEvL1JnazNGZWxKNlhuNmpDekJzT1R3eEZWNVgwQ0Q3L3NabUxkalp1aWxpaVEwcEVSaTBSdDVZTjYwVEQ0NEE9PRgAIAAoADC99f2h7pv/AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAUS5gEKHFdxZ0FHRERoWUNrYitvVXpxRVpWVXdUcDhRbz0SZlo6QURxdEFaejZNeDdUYWxCVE80emZMSXpjTWtnUm51cGRDMTRxUlBNNERpVXZCZ2o0bG9xUWxMeGxNN2VMN3VhYjBoUkozTXlkcmhJRDVvS0ZWc1RwWGVSQzk2Q1ZXZGFTTFE9PRgAIAIoAjCAsKmi7pv/Ajj7hvqk1zBA/a/Z0YYxShwvOExqVkxlNHM5K3k1eUg4STlTVnc3cHQ4THc9Wh4iHDN0T01RaGZWT3h4cjdJOCtYdHBZZUhFMTM3az1lKNDhqRLrAQgGEuYBChxaWkxYUWNzZGplSG1Zc0o1MXRldzJuTmpIMjQ9EmZaOkFEcXRBWno2TXg3VGFsQlRPNHpmTEl6Y01rZ1I5dDZPZkpoc3kvZnVBd0lrZVE3OGo3bUUzU1c3MkptaSswcHpDS21kRmpoR2lIT3RLQitDT1A2dDRjQUg0TWdsTXdiZmJBPT0YACACKAIwgLCpou6b/wI427f6pNcwQP2v2dGGMUocVE81a2RLRWlxUkZtRlNGOU82OEdkd0JyajdBPVoeIhxUaWFPaXJ4SjY4ZXpYc1Bza3JlQ2ZPWmR6b1k9ZWL0jLAS7AEICxLnAQocd0ZPT01UV011a1d5TFE1K0hRZGxtUk8zS1pBPRJmWjpBRHF0QVp6Nk14N1RhbEJUTzR6ZkxJemNNa2dSOXlXdVhieFlEUk1TZVZNS2EvNXk3c2VVTlYzZmg1aWl6ODVyTWhNS21PQkZ1QTYzb2hZSzVuaVk2NVYrVHI5UnFVTnFzUT09GAAgACgAMLTh2M2w5PwCOPakr+LeMED2pK/i3jBKHEpmU0tseE05d1FZRUdvajRkVGp1MTRORlRXUT1aHyId00RYa1hGd3lWaEtKZEpzcENEa0dTd3lCQklwMD1lMTzojRLsAQgMEucBChx1QnJMK1Y0czJDUW9kcXlGN0Q0QnR6YkxwWHM9EmZaOkFEcXRBWno2TXg3VGFsQlRPNHpmTEl6Y01rZ1JhY3dHZVdFUTZYeTh5SGlnMSs2NVd2dGtzNDNJQ2lBdmFDRHA2MHdvdGV4djhUYW1UU3VsbnBMcktyUERsdkF3a1BZcGZ3PT0YACAAKAAwzrDV37Dk/AI4iYSz4t4wQImEs+LeMEocQWhTYmNTQXRTMXV5bytNeDhNVXhpTy9YRlN3PVofIh3pRXdzZTNwTkVFT0J3VVl1MWx2R2ZBYktTdVI4PWX2VepBEuwBCAcS5wEKHHkvMGV1eldCbnhWb1VMK29qQUY4ZFkzdWVJMD0SZlo6QURxdEFaejZNeDdUYWxCVE80emZMSXpjTWtnUmZuUjdmSUxlQ2R4WVZ3MlE2T3J4djhaQk1odlFWOGJTcFY0cGduaWpOY0pjajdEZDJxSlcyeWx0THZESlVBOTI3MlRnSnc9PRgAIAAoADCG1K+PgOT8AjiZp5bc3jBAmaeW3N4wShx5QUFEbnplMHZmcGFwdWZTTEw2VWVPaHVGSVE9Wh8iHapNeWVwSFErUkxxcU9QNmJYMS9VdHpvSzQ3dHc9ZQAAAAAS7AEIDRLnAQoccnV2L2NvT3UvSGhJeTJFYWlDK1p5dVJCeTBFPRJmWjpBRHF0QVp6Nk14N1RhbEJUTzR6ZkxJemNNa2dScmozanozc0VPbmNsbzJpVXdDdjVMZjFyZVZOSzJhRUVpejR5b2VVN0hiUFZqVk5iaUg5YXJQTW1uL3lCbUkrRFpKc0NOdz09GAAgACgAMJDSjaOy5PwCONCGzOLeMEDQhszi3jBKHHcvMVdncWN6cW5RaWgvNWNUcjIxZE1WcGhBWT1aHyId9GJVbld0L2ZXTG5acTF6djM4YVVyTjlYWnMrdz1liNfTMxLrAQgJEuYBChxZM1hIVTBJY25MUHRURU1BbXJuRWhBQUNrSlU9EmZaOkFEcXRBWno2TXg3VGFsQlRPNHpmTEl6Y01rZ1JOaDUvaGZKS3dzWElsREVhTEIwakpVeCtTYkdxUTR1T1NDTlBtRW5hTUIydktxYXVhdnVablFCbXRKeFk3SkI3VGJFZzdBPT0YACAAKAAw0eCDmIDk/AI4gbWX3N4wQIG1l9zeMEocN0NwWnFIWVlZUEVBWkF4Zk5rVFA3U1ROU09rPVoeIhxNOXByclpDc3I4eVFWU3AwVDZSeU9DZWJxM0E9ZQkjrxIS7AEIDhLnAQocT25DRVdLR2R1RUNUYkUrV1BSWGlabkRXU09BPRJmWjpBRHF0QVp6Nk14N1RhbEJUTzR6ZkxJemNNa2dSWWJWZk9Ma0krYWF0REQ0MlAvRDNXc2piSERKYlhXajBLY2ZvWXVuUENQQnZuOU8xV3pmZERYbTRyK1hpVkNmWDllK0RZdz09GAAgACgAMPbJ+NC95PwCOLKShuTeMECykobk3jBKHDg0TDl1bm5WMTFmNTR4bnRjZmxkenMrZWtJcz1aHyId+nV0QzFqU3ZSQVJLM1hqK25RdkJsdHBRVEZnRT1lDsXmuhLrAQgSEuYBChxGRXc5N2UrYlU4N251T05zK2ZEQVpBK0xiaHM9EmZaOkFEcXRBWno2TXg3VGFsQlRPNHpmTEl6Y01rZ1JzbE9YblRlcEN2N2o0eDcxMmp0VHhnRjZqeEFpYXRyK1pXY3VjYXE3OVk0TUFTSVBiakFlLzJiV2lmdC9Tcm1sMnVKS3BBPT0YACAAKAAwr4exgMPk/AI43MXd5N4wQNzF3eTeMEocWmx2NzNUTXFpQVRLdytHZTVFZ3pRa1RpSVlRPVoeIhxBZEVMTHBab0lyR0lISFk3em9IOEZEdTZWVkk9ZQAAAAAS7AEIChLnAQocNlhPQlYxUjQxc3J1dDlvV0REVHpqUTdnalE4PRJmWjpBRHF0QVp6Nk14N1RhbEJUTzR6ZkxJemNNa2dSVEtOZW1OMDJWb0MrWDF0a1U2Y05LMjBsZ0lQUU8wU2djU2UyWk9kMWh2b2VVa0lPcWJiUmI5a3k5WnpOcTAzRm4zSlZNUT09GAAgACgAMJDX+Oav5PwCOLfKo+LeMEC3yqPi3jBKHGhJMnI2RHlVdDNGV0NDNGpuN3hjYjdIUXNrOD1aHyIdpjcrN2gydGVscGdvcDhrSzU0V1FjemFIL1dtST1lxTmVbBLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhIa0tkWGxHNWRPZWN1U0NuNlJYL3ZjQkNpbk9SdGFsNkdOWXpTeE5LYkw5YmJNZkxBT1ViV3ZuMFlJTkhmUEVOemoxL2hNSDh1RTNYK0RKalIra0NtS1lYVWJBPT0YACAAKAAwvfX9oe6b/wI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQgPEucBChw1QWVVUVFSdzdUaTNCNFcrUnhEVHRTd0V1K0E9EmZaOkFEcXRBWno2TXg3VGFsQlRPNHpmTEl6Y01rZ1JPSTB1WllkUVdkdkwza1BHaUc3Z294N1c4QUl1Q0c4ZHU5MHpkbUVIYkZITi9MNzlIelJ1R3UzZHRXbERzYW05YlZEbk13PT0YACAAKAAw9vb1x7jk/AI4iImz494wQIiJs+PeMEocWFVWZTRSQjM4NFRCMzk0NTBnK3JzY0NYYitnPVofIh3VNjMwditaUDc1dTcrbUdOMFRpRFJQMHFxd1h3PWUAAAAAEuwBCBES5wEKHHNERk51YzB6UHBnQXVUS09DbnRFUzZDMEo0MD0SZlo6QURxdEFaejZNeDdUYWxCVE80emZMSXpjTWtnUkFXTVRzemRQN05OcFEzVWU4SGxWRWFGM0hmUmU2VlJjT0YzMUtqTUNzS0pTOXlqOERXMmZwZzdZc05VOEZRaWxZTzBSQnc9PRgAIAAoADCEmcn+wuT8Ajiw9N3k3jBAsPTd5N4wShxYcG1Yd2VjSUo0MkRCRndCeHNiZm1qVEFyZjQ9Wh8iHfU3eXhZeTE0L1ZPSFMxenNVbVFuQmpuOGQ3eGs9ZQAAAAAS6wEIEBLmAQocQ1ZyTmlnYm51d0Jzd3JsZFVSOWUvWjVPZG9ZPRJmWjpBRHF0QVp6Nk14N1RhbEJUTzR6ZkxJemNNa2dSMUZScGtLK1NOL2ZNcTlUMWF5ZFBKL1N5MGt2bTJCaWdUZndDZGpLU21HZHRyUTRlSHVYazd0cjEwa2ZrUk1SaWZMTHJ0Zz09GAAgACgAMMOg9cq45PwCOIy6s+PeMECMurPj3jBKHDhuNTlYeTd1ZXM4ekRackwxTGsvR0hZb1Ixbz1aHiIcaTVvT3lxUVB2TG5mditOa2ovZUNvSzY3Zm1RPWW0uAj5MAE4AA==",
+   "version": 1
+}
