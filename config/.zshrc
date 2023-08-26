@@ -131,7 +131,7 @@ if [ "$color_prompt" = yes ]; then
         . /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
         ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern)
         ZSH_HIGHLIGHT_STYLES[default]=none
-        ZSH_HIGHLIGHT_STYLES[unknown-token]=fg=white,underline
+        ZSH_HIGHLIGHT_STYLES[unknown-token]=underline
         ZSH_HIGHLIGHT_STYLES[reserved-word]=fg=cyan,bold
         ZSH_HIGHLIGHT_STYLES[suffix-alias]=fg=green,underline
         ZSH_HIGHLIGHT_STYLES[global-alias]=fg=green,bold
@@ -256,16 +256,3 @@ fi
 if [ -f /etc/zsh_command_not_found ]; then
     . /etc/zsh_command_not_found
 fi
-
-# CUSTOM ALIAS
-alias os-fun='sudo openvpn --config /usr/share/ovpn/os-fun.ovpn --daemon'
-alias os-pg='sudo openvpn --config /usr/share/ovpn/os-pg.ovpn --daemon'
-alias os-p2='sudo openvpn --config /usr/share/ovpn/pwk2.ovpn --daemon'
-alias os-un='sudo openvpn --config /usr/share/ovpn/universal.ovpn --daemon'  
-alias ssho='ssh -o "UserKnownHostsFile=/dev/null" -o "LogLevel Error"'
-
-# custom functions
-function ossh {
-	ssh -o "UserKnownHostsFile=/dev/null" $1@$OSTARGET -p $2
-}
-
