@@ -18,3 +18,9 @@ rm synaptics-repository-keyring.deb
 
 echo [+] Installing Visual Studio Code
 sudo apt install code-oss -y
+
+echo [+] Installing TMUXinator
+sudo apt install tmuxinator -y
+
+echo [+] Installing Window Move Controller
+sudo apt install wmctrl -y
