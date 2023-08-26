@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo cp /Home/$USER/GitHub/LinFu/cmd/* /usr/local/bin/
-sudo apt install wmctrl
+sudo cp --update ~/GitHub/LinFu/cmd/* /usr/local/bin/
+cp --update ~/GitHub/LinFu/config/ ~/
