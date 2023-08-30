@@ -2,7 +2,7 @@
 
 offsec_conn() {
     echo "Loading $1 as OPENVPN config file"
-    sudo openvpn --config ~/ovpn/$1
+    sudo openvpn --config ~/ovpn/$1 --daemon
 }
 if [ -z "$1" ]; then
     prompt="Please select a file:"
