@@ -1,0 +1,48 @@
+#!/usr/bin/python
+import requests
+import subprocess
+
+class OAuther:
+    def __init__(self, authdat):
+        self.client_id = authdat['client_id']
+        self.client_secret = authdat['client_secret']
+        self.client_redirect = authdat['client_redirect']
+        self.client_url = authdat['client_url']
+        self.authorization_url = authdat['authorization_url']
+        self.access_token = str
+        self.expires = str
+        self.scope = str
+        self.token_type = str
+
+        self.get_access_token()
+
+    def get_access_token(self):
+        import subprocess
+        cmd = f'curl --data "grant_type=client_credentials&client_id={self.client_id}&client_secret={self.client_secret}" "{self.authorization_url}/oauth2/token"'
+        r = dict(zip((z := iter(subprocess.run(cmd, shell=True, capture_output=True, text=True).stdout.replace("{","").replace("}","").split(","))), z))
+        self.access_token = str(r).replace(":",",").split(",")[1].replace("'","").replace('"','').replace('\\','')
+        self.expires = str(r).replace(":",",").split(",")[3].replace("'","").replace('"','').replace('\\','')
+        self.scope = str(r).replace(":",",").split(",")[5].replace("'","").replace('"','').replace('\\','')
+        self.token_type = str(r).replace(":",",").split(",")[7].replace("'","").replace('"','').replace('\\','').replace("}","")
+
+authdat = {
+    "client_id": "61aa73e4-1207-4328-8888-bbb7fdb0a47f",
+    "client_secret": "BKzTqNRFbuTN7T-yxoaZTA03eg",
+    "client_redirect": r"http://webservices:8085/callback",
+    "client_url": r"http://webservices:8085",
+    "authorization_url": r"http://webservices:4444"
+}
+
+authdat_burnt = {
+    "client_id": "e6d1ca9f-65e0-4fc4-8918-ae52ed3a02b4",
+    "client_secret": "kXIclpmeqVXCmhOMYWp1LfjCkf",
+    "client_redirect": r"http://webservices:8088/callback",
+    "client_url": r"http://webservices:8088",
+    "authorization_url": r"http://webservices:4444"
+}
+creds = OAuther(authdat)
+get_bearer_cmd = f'curl {creds.client_url} -H "Accept: application/json" -H "Authorization: {creds.token_type} {creds.access_token}"'
+bearer_reponse = subprocess.run(get_bearer_cmd, shell=True, capture_output=True, text=True)
+print("Bearer Response:")
+print(bearer_reponse)
+print("end")
